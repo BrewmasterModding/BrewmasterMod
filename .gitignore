@@ -402,3 +402,9 @@ FodyWeavers.xsd
 *.user
 /Saved/
 *.sln
+*.DS_Store
+*.xcworkspacedata
+*.xcsettings
+/.idea/
+*.xcuserstate
+*.plist
